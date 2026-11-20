@@ -28,7 +28,7 @@ Chaque chapitre a son dossier. `brouillons/` contient les photos de mes feuilles
 
 | Chapitre | Statut | Exercices | Bilan (score) | Bilan (temps) | Date de fin |
 |---|---|---|---|---|---|
-| Nombres relatifs (rappel 4e) | Terminé | 1 | | | 2026-11-20 |
+| Nombres relatifs (rappel 4e) | Terminé | 2 | | | 2026-11-20 |
 
 Statuts possibles : À faire, En cours, Terminé.
 

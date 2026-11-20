@@ -44,3 +44,23 @@ $$(-6) / (-3) = (-6) \times \left(-\frac{1}{3}\right) = \frac{6}{3} = 2$$
 $$(-3)^3 = (-3) \times (-3) \times (-3) = -27$$
 
 - **À retenir :** un nombre négatif placé après un signe d'opération se met entre parenthèses.
+
+### Exercice 2 : signe d'un produit, sans calcul
+
+**Brouillon :** [scan](brouillons/2026-11-20-regle-des-signes.pdf)
+
+#### Résolution
+
+$$A = \underbrace{(-5) \times (+4)}_{-} \times \underbrace{(-5)}_{-}$$
+
+Signe de $A$ : $+$
+
+$$B = \underbrace{\underbrace{(-5) \times (+57)}_{-} \times \underbrace{(-61) \times (+5)}_{-}}_{+} \times \underbrace{(-1)}_{-}$$
+
+Signe de $B$ : $-$
+
+#### Règle
+
+Nombre de facteurs négatifs :
+- pair $\rightarrow +$
+- impair $\rightarrow -$
