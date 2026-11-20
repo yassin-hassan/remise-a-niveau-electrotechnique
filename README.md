@@ -9,7 +9,7 @@ La première étape est l'algèbre. Je suis les cours d'Yvan Monka (maths-et-tiq
 ## Méthode
 
 1. **Pour chaque chapitre** : cours, vidéo, exercices. Chaque erreur relevée est conservée avec ma correction.
-2. **Bilan de fin de chapitre** : exercices inédits, chronométrés.
+2. **Bilan de fin de chapitre** : exercices inédits, ajoutés à la fin du fichier du chapitre.
 
 ## Organisation du dépôt
 
@@ -26,9 +26,9 @@ Chaque chapitre a son dossier. `brouillons/` contient les photos de mes feuilles
 
 ## Progression
 
-| Chapitre | Statut | Exercices | Bilan (score) | Bilan (temps) | Date de fin |
-|---|---|---|---|---|---|
-| Nombres relatifs (rappel 4e) | Terminé | 2 | | | 2026-11-20 |
+| Chapitre | Statut | Exercices | Date de fin |
+|---|---|---|---|
+| Nombres relatifs (rappel 4e) | Terminé | 2 | 2026-11-20 |
 
 Statuts possibles : À faire, En cours, Terminé.
 
