@@ -31,10 +31,11 @@ Chaque chapitre a son dossier. `brouillons/` contient les photos de mes feuilles
 
 ## Progression
 
-| Chapitre | Statut | Exercices | Date de fin |
-|---|---|---|---|
-| Nombres relatifs (rappel 4e) | Terminé | 2 | 2026-11-20 |
-| Fractions (cours 6e à 3e) | En cours | 4 | |
+| Notion | Statut | Journal |
+|---|---|---|
+| Nombres relatifs | En cours | [20/11](journal.md#2026-11-20), [21/11](journal.md#2026-11-21) |
+| Fractions | En cours | [21/11](journal.md#2026-11-21) |
+| Divisibilité et nombres premiers | En cours | [21/11](journal.md#2026-11-21) |
 
 Statuts possibles : À faire, En cours, Terminé.
 
