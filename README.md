@@ -31,7 +31,7 @@ Chaque chapitre a son dossier. `brouillons/` contient les photos de mes feuilles
 | Chapitre | Statut | Exercices | Date de fin |
 |---|---|---|---|
 | Nombres relatifs (rappel 4e) | Terminé | 2 | 2026-11-20 |
-| Fractions (cours 6e à 3e) | En cours | 0 | |
+| Fractions (cours 6e à 3e) | En cours | 1 | |
 
 Statuts possibles : À faire, En cours, Terminé.
 
