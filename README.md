@@ -18,17 +18,20 @@ maths/algebre/
   01-nombres-relatifs/
     exercices.md
     brouillons/
-  02-<chapitre>/
-    ...
+  02-fractions/
+    exercices.md
+    brouillons/
+journal.md
 ```
 
-Chaque chapitre a son dossier. `brouillons/` contient les photos de mes feuilles manuscrites, et le fichier `.md` leur transcription.
+Chaque chapitre a son dossier. `brouillons/` contient les photos de mes feuilles manuscrites, et le fichier `.md` leur transcription. `journal.md` résume chaque jour de travail : notions vues, erreurs marquantes, points à travailler.
 
 ## Progression
 
 | Chapitre | Statut | Exercices | Date de fin |
 |---|---|---|---|
 | Nombres relatifs (rappel 4e) | Terminé | 2 | 2026-11-20 |
+| Fractions (cours 6e à 3e) | En cours | 0 | |
 
 Statuts possibles : À faire, En cours, Terminé.
 
