@@ -4,7 +4,10 @@ Ce dépôt est mon carnet de travail. J'y consigne, exercice par exercice, ma re
 
 Les résolutions sont les miennes, erreurs comprises. Quand je me trompe, je garde l'erreur et j'ajoute ma correction. L'historique des commits montre le rythme du travail.
 
-La première étape est l'algèbre. Je suis les cours d'Yvan Monka (maths-et-tiques.fr) : lecture de la notion, vidéo, puis exercices.
+## Objectifs
+
+1. **Retrouver la fluidité en calcul algébrique.** Je suis les cours d'Yvan Monka (maths-et-tiques.fr) : lecture de la notion, vidéo, puis exercices.
+2. **Apprendre l'électricité**, avec les cours de Fabrice Sincère.
 
 ## Méthode
 
