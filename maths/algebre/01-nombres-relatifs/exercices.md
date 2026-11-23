@@ -68,7 +68,7 @@ Nombre de facteurs négatifs :
 ### Exercice 3 : signe d'un produit, sans calcul
 
 **Date :** 2026-11-23
-**Brouillon :** [scan](brouillons/2026-11-23-signe-produits.pdf)
+**Brouillon :** [scan original](brouillons/2026-11-23-signe-produits.pdf), [scan corrigé](brouillons/2026-11-23-corrections-et-calculs.pdf)
 
 #### Énoncé
 
@@ -87,3 +87,46 @@ $$D = (-19) \times (-5) \times 5 \times (-7) \times (-1) \times 0 \implies 0 = -
 $$E = (-1) \times (-2) \times (-3) \times (-4) \ldots \times (-2020) \times (-2021)$$
 
 $2021$ est impair donc $E$ est négatif.
+
+#### Erreur et correction
+
+- **Erreur (lignes A et B) :** recopie de l'énoncé. En A, $-(5)$ au lieu de $(-5)$. En B, un $+$ au lieu d'un $\times$ entre $(-5)$ et $(+57)$ : l'expression devenait une somme, et la règle des signes d'un produit ne s'appliquait plus.
+- **Correction :**
+
+$$A = (-5) \times (+4) \times (-5) \implies +$$
+
+$$B = (-5) \times (+57) \times (-61) \times (+5) \times (-1) \implies -$$
+
+- **À retenir :** vérifier l'énoncé recopié avant de raisonner.
+
+### Exercice 4 : calculer
+
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-corrections-et-calculs.pdf)
+
+#### Résolution
+
+$$
+\begin{aligned}
+A &= 7 - 4 \times (-8) \\
+&= 7 + 32 \\
+&= 39
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+B &= 15 - (7 - 8) \\
+&= 15 - (-1) \\
+&= 15 + 1 = 16
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+C &= -3 - (-4 + 8) \times (2 - 9) \\
+&= -3 - (4) \times (-7) \\
+&= -3 - (-28) \\
+&= 28 - 3 = 25
+\end{aligned}
+$$
