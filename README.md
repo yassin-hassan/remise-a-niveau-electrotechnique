@@ -101,7 +101,7 @@ Chaque chapitre a son dossier. `brouillons/` contient les photos de mes feuilles
 | Notion | Statut | Journal |
 |---|---|---|
 | Nombres relatifs | Terminé | [20/11](journal.md#2026-11-20), [21/11](journal.md#2026-11-21), [23/11](journal.md#2026-11-23) |
-| Fractions | En cours | [21/11](journal.md#2026-11-21) |
+| Fractions | En cours | [21/11](journal.md#2026-11-21), [23/11](journal.md#2026-11-23) |
 | Divisibilité et nombres premiers | En cours | [21/11](journal.md#2026-11-21) |
 
 Statuts possibles : À faire, En cours, Terminé.

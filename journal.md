@@ -6,6 +6,8 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Nombres relatifs.** Suite du cours de 4e d'Yvan Monka : signe d'un produit sans le calculer. Rappel de ce que j'avais oublié : $0$ est à la fois positif et négatif, donc $0 = -0$. Calculs avec des nombres relatifs, priorités opératoires, puissances et quotients, dont des exercices du manuel Myriade 4e. Fin du chapitre Nombres relatifs de 4e.
 
+**Fractions.** Additions et soustractions de fractions avec des nombres relatifs, par mise au même dénominateur.
+
 ## 2026-11-21
 
 **Nombres relatifs.** J'ai revu la règle des signes. Notion encore en cours.

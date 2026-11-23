@@ -148,3 +148,32 @@ $$\frac{462}{546} = \frac{2 \times 3 \times 11 \times 7}{2 \times 3 \times 7 \ti
 #### Résultat
 
 $$\frac{462}{546} = \frac{11}{13}$$
+
+### Exercice 5 : additions et soustractions de fractions
+
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-sommes-de-fractions.pdf)
+
+#### Énoncé
+
+Calculer.
+
+#### Résolution
+
+Rappel noté en marge :
+
+$$\frac{-a}{b} = \frac{a}{-b} = -\frac{a}{b}$$
+
+$$
+\begin{aligned}
+A &= \frac{4}{3} - \frac{-3}{6} \\
+&= \frac{4}{3} - \left(-\frac{3}{6}\right) = \frac{4}{3} + \frac{3}{6} = \frac{8}{6} + \frac{3}{6} = \frac{8+3}{6} \\
+&= \frac{11}{6}
+\end{aligned}
+$$
+
+$$B = \frac{-2}{3} + \frac{3}{4} = \frac{-8}{12} + \frac{9}{12} = \frac{9-8}{12} = \frac{1}{12}$$
+
+$$C = 1 + \frac{1}{-7} = \frac{7}{7} - \frac{1}{7} = \frac{7-1}{7} = \frac{6}{7}$$
+
+$$D = \frac{-34}{11} + 3 = \frac{-34}{11} + \frac{3}{1} = \frac{-34}{11} + \frac{33}{11} = \frac{-1}{11}$$
