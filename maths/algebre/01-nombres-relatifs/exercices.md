@@ -190,3 +190,25 @@ $$
 &= 5 - 1 = 4
 \end{aligned}
 $$
+
+### Exercice 6 : puissances de nombres relatifs
+
+**Source :** Yvan Monka, vidéo d'exercices sur les nombres relatifs
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-puissances.pdf)
+
+#### Énoncé
+
+Calculer : $(-2)^2$, $-2^2$, $(-2)^3$, $(-1)^5$, $-(-5)^3$.
+
+#### Résolution
+
+a) $(-2)^2 = (-2) \times (-2) = 4$
+
+b) $-2^2 = -2 \times 2 = -4$
+
+c) $(-2)^3 = (-2) \times (-2) \times (-2) = -8$
+
+d) $(-1)^5 = -1$
+
+e) $-(-5)^3 = -(-125) = 125$
