@@ -130,3 +130,63 @@ C &= -3 - (-4 + 8) \times (2 - 9) \\
 &= 28 - 3 = 25
 \end{aligned}
 $$
+
+### Exercice 5 : calculer
+
+**Source :** manuel Myriade 4e (Bordas)
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-myriade-calculs.pdf)
+
+#### Énoncé
+
+Calculer :
+
+a. $-7 - 4 + 6$ \
+b. $-2 + (-3) \times 5$ \
+c. $-7 \times (-2) - (-11)$ \
+d. $(-5) \times 2 - 4 \times (-3)$ \
+e. $-1 - 24 : (-6)$ \
+f. $-45 : (-9) - 1$
+
+#### Résolution
+
+$$
+\begin{aligned}
+\text{a.}\quad & -7 - 4 + 6 \\
+&= -11 + 6 \\
+&= -5
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+\text{b.}\quad & -2 + (-3) \times 5 \\
+&= -2 - 15 \\
+&= -17
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\text{c.}\quad & -7 \times (-2) - (-11) \\
+&= 14 - (-11) \\
+&= 14 + 11 \\
+&= 25
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+\text{d.}\quad & (-5) \times 2 - 4 \times (-3) \\
+&= -10 + 12 \\
+&= 2
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\text{e.}\quad & -1 - 24 : (-6) \\
+&= -1 + 4 = 3
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+\text{f.}\quad & -45 : (-9) - 1 \\
+&= 5 - 1 = 4
+\end{aligned}
+$$
