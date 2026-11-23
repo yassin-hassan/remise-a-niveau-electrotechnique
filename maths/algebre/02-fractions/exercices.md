@@ -177,3 +177,30 @@ $$B = \frac{-2}{3} + \frac{3}{4} = \frac{-8}{12} + \frac{9}{12} = \frac{9-8}{12}
 $$C = 1 + \frac{1}{-7} = \frac{7}{7} - \frac{1}{7} = \frac{7-1}{7} = \frac{6}{7}$$
 
 $$D = \frac{-34}{11} + 3 = \frac{-34}{11} + \frac{3}{1} = \frac{-34}{11} + \frac{33}{11} = \frac{-1}{11}$$
+
+### Exercice 6 : additions et soustractions de fractions
+
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-sommes-de-fractions-2.pdf)
+
+#### Énoncé
+
+Calculer.
+
+#### Résolution
+
+$$
+\begin{aligned}
+A &= \frac{3}{15} - \frac{7}{25} \\
+&= \frac{15}{75} - \frac{21}{75} = \frac{15-21}{75} = \frac{-6}{75} = -\frac{2 \times 3}{3 \times 25} \\
+&= -\frac{2}{25}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+B &= \frac{1}{2} + \frac{1}{6} + \frac{4}{9} - \frac{5}{6} \\
+&= \frac{1}{2} + \frac{4}{9} - \frac{4}{6} \\
+&= \frac{9}{18} + \frac{8}{18} - \frac{12}{18} = \frac{5}{18}
+\end{aligned}
+$$
