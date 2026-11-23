@@ -204,3 +204,62 @@ B &= \frac{1}{2} + \frac{1}{6} + \frac{4}{9} - \frac{5}{6} \\
 &= \frac{9}{18} + \frac{8}{18} - \frac{12}{18} = \frac{5}{18}
 \end{aligned}
 $$
+
+### Exercice 7 : soustraction avec parenthèses
+
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-sommes-de-fractions-3.pdf)
+
+#### Énoncé
+
+Calculer.
+
+#### Résolution
+
+$$
+\begin{aligned}
+C &= \frac{4}{7} - \left(\frac{2}{7} + \frac{1}{5}\right) \\
+&= \frac{4}{7} - \left(\frac{10}{35} + \frac{7}{35}\right) \\
+&= \frac{4}{7} - \frac{17}{35} \\
+&= \frac{20 - 17}{35} = \frac{3}{35}
+\end{aligned}
+$$
+
+### Exercice 8 : additions et soustractions, résultat simplifié
+
+**Source :** manuel Myriade 4e (Bordas)
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-myriade-sommes.pdf)
+
+#### Énoncé
+
+Calculer et donner le résultat sous forme d'une fraction simplifiée.
+
+#### Résolution
+
+$$
+\begin{aligned}
+\text{a.}\quad & -\frac{4}{7} + \frac{3}{14} \\
+&= \frac{-8}{14} + \frac{3}{14} \\
+&= \frac{-5}{14}
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+\text{b.}\quad & \frac{8}{3} + \frac{-5}{4} \\
+&= \frac{32}{12} + \frac{-15}{12} \\
+&= \frac{17}{12}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\text{c.}\quad & \frac{-5}{2} - 3 = \frac{-5}{2} - \frac{6}{2} \\
+&= \frac{-11}{2}
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+\text{d.}\quad & \frac{1}{3} + \frac{5}{2} - \frac{5}{6} \\
+&= \frac{2}{6} + \frac{15}{6} - \frac{5}{6} \\
+&= \frac{12}{6} = 2
+\end{aligned}
+$$
