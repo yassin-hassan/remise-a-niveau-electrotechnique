@@ -212,3 +212,21 @@ c) $(-2)^3 = (-2) \times (-2) \times (-2) = -8$
 d) $(-1)^5 = -1$
 
 e) $-(-5)^3 = -(-125) = 125$
+
+### Exercice 7 : quotients de nombres relatifs
+
+**Source :** Yvan Monka, vidéo d'exercices sur les nombres relatifs
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-quotients.pdf)
+
+#### Résolution
+
+$$A = \frac{-8}{-4} = \frac{8}{4} = 2$$
+
+$$B = \frac{45}{-5} = -\frac{45}{5} = -9$$
+
+$$C = \frac{-8 - 2}{-2} = \frac{-10}{-2} = \frac{10}{2} = 5$$
+
+Quatrième calcul, sans lettre sur le brouillon :
+
+$$\frac{-3 \times (-4)}{-12} = \frac{12}{-12} = -1$$
