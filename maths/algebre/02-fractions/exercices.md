@@ -263,3 +263,35 @@ $$
 &= \frac{12}{6} = 2
 \end{aligned}
 $$
+
+### Exercice 9 : multiplications de fractions
+
+**Source :** manuel Myriade 5e (Bordas)
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-myriade-5e-produits.pdf)
+
+#### Énoncé
+
+Effectuer les calculs suivants.
+
+#### Résolution
+
+Les facteurs communs, barrés sur le brouillon, sont écrits ici sans barre.
+
+$$\text{a.}\quad \frac{10}{11} \times \frac{11}{3} = \frac{10}{3}$$
+
+$$
+\begin{aligned}
+\text{b.}\quad & \frac{9}{25} \times \frac{15}{22} = \frac{9 \times 3 \times 5}{5 \times 5 \times 22} = \frac{9 \times 3}{5 \times 22} \\
+&= \frac{27}{110}
+\end{aligned}
+$$
+
+$$\text{c.}\quad \frac{18}{35} \times \frac{21}{9} = \frac{9 \times 2 \times 7 \times 3}{7 \times 5 \times 3 \times 3} = \frac{6}{5}$$
+
+$$
+\begin{aligned}
+\text{d.}\quad & 24 \times \frac{3}{16} = \frac{24 \times 3}{16} = \frac{6 \times 4 \times 3}{4 \times 4} \\
+&= \frac{2 \times 3 \times 3}{2 \times 2} = \frac{9}{2}
+\end{aligned}
+$$

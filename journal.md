@@ -6,7 +6,7 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Nombres relatifs.** Suite du cours de 4e d'Yvan Monka : signe d'un produit sans le calculer. Rappel de ce que j'avais oublié : $0$ est à la fois positif et négatif, donc $0 = -0$. Calculs avec des nombres relatifs, priorités opératoires, puissances et quotients, dont des exercices du manuel Myriade 4e. Fin du chapitre Nombres relatifs de 4e.
 
-**Fractions.** Additions et soustractions de fractions avec des nombres relatifs, par mise au même dénominateur.
+**Fractions.** Additions et soustractions de fractions avec des nombres relatifs, par mise au même dénominateur, dont des exercices du manuel Myriade 4e. Multiplications de fractions, avec simplification avant de calculer (Myriade 5e).
 
 **Lacunes.** Je remarque des lacunes en calcul mental, dans les tables de multiplication et dans la division euclidienne. Elles me ralentissent dans les calculs de fractions. Je prévois de réviser ces trois notions en parallèle du programme.
 
