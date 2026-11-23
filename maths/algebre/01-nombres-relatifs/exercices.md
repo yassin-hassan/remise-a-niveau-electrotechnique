@@ -64,3 +64,26 @@ Signe de $B$ : $-$
 Nombre de facteurs négatifs :
 - pair $\rightarrow +$
 - impair $\rightarrow -$
+
+### Exercice 3 : signe d'un produit, sans calcul
+
+**Date :** 2026-11-23
+**Brouillon :** [scan](brouillons/2026-11-23-signe-produits.pdf)
+
+#### Énoncé
+
+Sans les calculer, donner le signe des expressions suivantes.
+
+#### Résolution
+
+$$A = (-5) \times (+4) \times -(5) \implies +$$
+
+$$B = (-5) + (+57) \times (-61) \times (+5) \times (-1) \implies -$$
+
+$$C = -1 \times 2 \times (-3) \times 4 \times (-5) \times 6 \times (-7) \implies +$$
+
+$$D = (-19) \times (-5) \times 5 \times (-7) \times (-1) \times 0 \implies 0 = -0 \text{, positif ou négatif}$$
+
+$$E = (-1) \times (-2) \times (-3) \times (-4) \ldots \times (-2020) \times (-2021)$$
+
+$2021$ est impair donc $E$ est négatif.

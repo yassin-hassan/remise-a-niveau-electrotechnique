@@ -2,6 +2,10 @@
 
 Une entrée par jour de travail, la plus récente en haut.
 
+## 2026-11-23
+
+**Nombres relatifs.** Suite du cours de 4e d'Yvan Monka : signe d'un produit sans le calculer. Rappel de ce que j'avais oublié : $0$ est à la fois positif et négatif, donc $0 = -0$.
+
 ## 2026-11-21
 
 **Nombres relatifs.** J'ai revu la règle des signes. Notion encore en cours.
