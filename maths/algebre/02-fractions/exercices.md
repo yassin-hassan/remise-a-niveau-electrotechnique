@@ -295,3 +295,72 @@ $$
 &= \frac{2 \times 3 \times 3}{2 \times 2} = \frac{9}{2}
 \end{aligned}
 $$
+
+### Exercice 10 : multiplications de fractions avec des nombres relatifs
+
+**Source :** manuel Myriade 4e (Bordas)
+**Date :** 2026-11-23
+**Brouillon :** [scan original](brouillons/2026-11-23-myriade-4e-produits.pdf), [scan corrigé](brouillons/2026-11-23-myriade-4e-produits-corrige.pdf)
+
+#### Énoncé
+
+Calculer et simplifier.
+
+#### Résolution
+
+Les facteurs communs, barrés sur le brouillon, sont écrits ici sans barre.
+
+$$\text{a.}\quad \frac{4}{3} \times \frac{6}{-2} = -\frac{2 \times 2 \times 2 \times 3}{3 \times 2} = 4$$
+
+$$\text{b.}\quad -\frac{5}{9} \times \frac{3}{-15} = \frac{5 \times 3}{3 \times 3 \times 3 \times 5} = \frac{1}{9}$$
+
+$$\text{c.}\quad \frac{14}{9} \times \frac{18}{49} = \frac{7 \times 2 \times 9 \times 2}{9 \times 7 \times 7} = \frac{4}{7}$$
+
+$$\text{d.}\quad \frac{-8}{15} \times \frac{30}{-16} = \frac{8 \times 5 \times 6}{5 \times 3 \times 8 \times 2} = \frac{6}{6} = 1$$
+
+#### Erreur et correction
+
+- **Erreur (ligne a, résultat) :** signe. Le signe moins, présent devant la fraction intermédiaire, a disparu dans le résultat.
+- **Correction :**
+
+$$\text{a.}\quad \frac{4}{3} \times \frac{6}{-2} = -\frac{2 \times 2 \times 2 \times 3}{3 \times 2} = -4$$
+
+- **À retenir :** reporter le signe jusqu'au résultat final.
+
+### Exercice 11 : divisions de fractions avec des nombres relatifs
+
+**Source :** manuel Myriade 4e (Bordas)
+**Date :** 2026-11-23
+**Brouillon :** [scan, 2 pages](brouillons/2026-11-23-myriade-4e-quotients.pdf)
+
+#### Énoncé
+
+Calculer et simplifier.
+
+#### Résolution
+
+Les facteurs communs, barrés sur le brouillon, sont écrits ici sans barre.
+
+$$
+\begin{aligned}
+\text{a.}\quad & -\frac{1}{4} : \frac{2}{7} \\
+&= -\frac{1}{4} \times \frac{7}{2} \\
+&= -\frac{7}{8}
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+\text{b.}\quad & -\frac{8}{3} : \frac{4}{-9} = -\frac{8}{3} \times \frac{-9}{4} \\
+&= \frac{2 \times 4 \times 3 \times 3}{3 \times 4} \\
+&= 6
+\end{aligned}
+$$
+
+c. Une première tentative, page 1, est barrée sur le brouillon. Reprise page 2 :
+
+$$
+\begin{aligned}
+\text{c.}\quad & -\frac{81}{56} : \frac{72}{-64} = \frac{81 \times 64}{56 \times 72} \\
+&= \frac{3 \times 3 \times 3 \times 3 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2}{7 \times 2 \times 2 \times 2 \times 3 \times 2 \times 2 \times 2 \times 3} \\
+&= \frac{9}{7}
+\end{aligned}
+$$
