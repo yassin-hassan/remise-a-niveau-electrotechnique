@@ -8,6 +8,8 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Fractions.** Additions et soustractions de fractions avec des nombres relatifs, par mise au même dénominateur.
 
+**Lacunes.** Je remarque des lacunes en calcul mental, dans les tables de multiplication et dans la division euclidienne. Elles me ralentissent dans les calculs de fractions. Je prévois de réviser ces trois notions en parallèle du programme.
+
 ## 2026-11-21
 
 **Nombres relatifs.** J'ai revu la règle des signes. Notion encore en cours.

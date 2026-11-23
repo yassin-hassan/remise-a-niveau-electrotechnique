@@ -15,6 +15,12 @@ Pour passer au chapitre suivant, je dois réussir les exercices corrigés sans r
 
 ### Phase 1 : algèbre de 4e et de 3e (4 à 6 semaines)
 
+**Bases de calcul, en parallèle**
+
+- **Tables de multiplication** : entraînement quotidien, surtout les tables de 6 et de 7.
+- **Calcul mental.**
+- **Division euclidienne** posée.
+
 **Monka 4e, chapitres retenus**
 
 - **Nombres relatifs** : additions et soustractions, règle des signes (y compris sur les fractions), calculs avec des relatifs.
