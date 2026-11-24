@@ -601,3 +601,74 @@ $$12.\quad \frac{4}{3} + \left(\frac{1}{6} - \frac{1}{24}\right) = \frac{4}{3} +
 $$11.\quad \frac{23}{7} - \left(\frac{35 - 14}{21}\right) = \frac{23}{7} - 1 = \frac{23 - 7}{7} = \frac{16}{7}$$
 
 - **À retenir :** quand une parenthèse précédée d'un signe moins est remplacée par sa valeur, le signe moins reste.
+
+### Exercice 15 : priorités opératoires avec des fractions
+
+**Source :** Yvan Monka, exercices autocorrectifs de calcul fractionnaire, exercice 2 (sélection de 10 calculs)
+**Date :** 2026-11-24
+**Brouillon :** [scan, calculs 1 à 5](brouillons/2026-11-24-priorites-1-a-5.pdf), [scan, calculs 6 à 10](brouillons/2026-11-24-priorites-6-a-10.pdf), [scan corrigé, calculs 6 à 10](brouillons/2026-11-24-priorites-6-a-10-corrige.pdf)
+
+#### Énoncé
+
+Effectuer les calculs suivants.
+
+#### Résolution
+
+Les facteurs communs, barrés sur le brouillon, sont écrits ici sans barre.
+
+$$1.\quad \frac{1}{6} + \frac{1}{2} \times \frac{5}{3} = \frac{1}{6} + \frac{5}{6} = 1$$
+
+$$2.\quad 2 - \frac{4}{5} \times \frac{1}{3} = 2 - \frac{4}{15} = \frac{30 - 4}{15} = \frac{26}{15}$$
+
+$$
+\begin{aligned}
+3.\quad & \frac{7}{3} - \frac{2}{3} \times \frac{7}{8} \\
+&= \frac{7}{3} - \frac{14}{24} = \frac{56 - 14}{24} = \frac{42}{24} \\
+&= \frac{7 \times 3 \times 2}{3 \times 2 \times 2 \times 2} = \frac{7}{4}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+4.\quad & \frac{15}{9} \times \frac{1}{6} - \frac{1}{9} = \frac{15}{54} - \frac{1}{9} = \frac{15 - 6}{54} = \frac{9}{54} \\
+&= \frac{1}{6}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+5.\quad & \frac{7}{4} - \frac{3}{4} \times \frac{1}{5} - \frac{3}{5} = \frac{7}{4} - \frac{3}{20} - \frac{3}{5} \\
+&= \frac{35 - 3 - 12}{20} = \frac{35 - 15}{20} = 1
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+6.\quad & \left(3 - \frac{2}{3}\right) \times \frac{3}{4} \\
+&= \left(\frac{9 - 2}{3}\right) \times \frac{3}{4} = \frac{7}{3} \times \frac{3}{4} = \frac{21}{12} = \frac{7}{4}
+\end{aligned}
+$$
+
+$$7.\quad 2 \times \left(\frac{3}{4} - \frac{1}{8}\right) = 2 \times \frac{5}{8} = \frac{10}{8} = \frac{5}{4}$$
+
+$$8.\quad \frac{3}{2} \times \left(1 - \frac{2}{3}\right) = \frac{3}{2} \times \frac{1}{3} = \frac{1}{2}$$
+
+Le calcul 9 contient une étape raturée, non transcrite.
+
+$$
+\begin{aligned}
+9.\quad & \frac{15}{33} \times \left(\frac{6}{3} + 9\right) = \frac{15}{33} \times 11 \\
+&= \frac{5 \times 3}{3 \times 11} \times 11 = 5
+\end{aligned}
+$$
+
+$$10.\quad \frac{5}{12} - \left(\frac{2}{9} + \frac{1}{36}\right) = \frac{5}{12} - \frac{3}{36} = \frac{12}{36} = \frac{1}{3}$$
+
+#### Erreur et correction
+
+- **Erreur (calcul 10, première égalité) :** addition de fractions de dénominateurs différents. $\frac{2}{9} + \frac{1}{36}$ a été écrit $\frac{3}{36}$ : les numérateurs ont été additionnés sans convertir $\frac{2}{9}$ en 36e.
+- **Correction :**
+
+$$10.\quad \frac{5}{12} - \left(\frac{2}{9} + \frac{1}{36}\right) = \frac{5}{12} - \frac{9}{36} = \frac{5 - 3}{12} = \frac{1}{6}$$
+
+- **À retenir :** avant d'additionner deux fractions, vérifier qu'elles ont le même dénominateur, y compris à l'intérieur d'une parenthèse.

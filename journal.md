@@ -8,7 +8,7 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Tables de multiplication.** J'ai mis en place un paquet Anki avec les multiplications que je rate encore, dans les deux sens : $7 \times 8 = ?$ et $56 = ? \times ?$.
 
-**Fractions.** Exercice d'Yvan Monka sur les fractions irréductibles : décomposer de grands nombres en facteurs premiers (calculatrice pour certaines divisions), établir une conjecture, puis la réfuter par un contre-exemple. Je retiens qu'un nombre est premier si aucun nombre premier inférieur ou égal à sa racine carrée ne le divise. Révision : douze calculs choisis dans une fiche autocorrective d'Yvan Monka, sans le cours. Une erreur de signe devant une parenthèse, corrigée.
+**Fractions.** Exercice d'Yvan Monka sur les fractions irréductibles : décomposer de grands nombres en facteurs premiers (calculatrice pour certaines divisions), établir une conjecture, puis la réfuter par un contre-exemple. Je retiens qu'un nombre est premier si aucun nombre premier inférieur ou égal à sa racine carrée ne le divise. Révision : douze calculs choisis dans une fiche autocorrective d'Yvan Monka, sans le cours. Une erreur de signe devant une parenthèse, corrigée. Puis dix calculs de priorités opératoires avec des fractions (multiplication avant addition, parenthèses d'abord) : une erreur, une addition de fractions sans les mettre au même dénominateur, corrigée.
 
 ## 2026-11-23
 
