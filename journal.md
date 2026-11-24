@@ -2,6 +2,12 @@
 
 Une entrée par jour de travail, la plus récente en haut.
 
+## 2026-11-24
+
+**Nombres relatifs.** Exercice d'Yvan Monka : quinze calculs avec priorités opératoires, en détaillant les étapes. Une erreur de signe sur un quotient, corrigée.
+
+**Tables de multiplication.** J'ai mis en place un paquet Anki avec les multiplications que je rate encore, dans les deux sens : $7 \times 8 = ?$ et $56 = ? \times ?$.
+
 ## 2026-11-23
 
 **Nombres relatifs.** Suite du cours de 4e d'Yvan Monka : signe d'un produit sans le calculer. Rappel de ce que j'avais oublié : $0$ est à la fois positif et négatif, donc $0 = -0$. Calculs avec des nombres relatifs, priorités opératoires, puissances et quotients, dont des exercices du manuel Myriade 4e. Fin du chapitre Nombres relatifs de 4e.

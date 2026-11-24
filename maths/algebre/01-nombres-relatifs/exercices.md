@@ -230,3 +230,128 @@ $$C = \frac{-8 - 2}{-2} = \frac{-10}{-2} = \frac{10}{2} = 5$$
 Quatrième calcul, sans lettre sur le brouillon :
 
 $$\frac{-3 \times (-4)}{-12} = \frac{12}{-12} = -1$$
+
+### Exercice 8 : calculs avec des nombres relatifs, détailler les étapes
+
+**Source :** Yvan Monka, exercices sur les nombres relatifs (4e)
+**Date :** 2026-11-24
+**Brouillon :** [scan original, 3 pages](brouillons/2026-11-24-monka-calculs.pdf), [scan corrigé](brouillons/2026-11-24-monka-calculs-corrige.pdf)
+
+#### Énoncé
+
+Effectuer les opérations suivantes en détaillant les étapes de calcul, puis colorier les cases correspondant aux différents résultats.
+
+#### Résolution
+
+$$
+\begin{aligned}
+A &= -7 \times (-2) - (-11) \\
+&= 7 \times 2 + 11 \\
+&= 14 + 11 = 25
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+B &= (-5) \times 2 - 4 \times (-3) \\
+&= (-5) \times 2 + 12 \\
+&= -10 + 12 = 2
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+C &= -3 \times (-9 - (-5)) \\
+&= -3 \times (-9 + 5) \\
+&= -3 \times (-4) \\
+&= 12
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+D &= -7 - 24 : (-6) \\
+&= -7 + 24 : 6 \\
+&= -7 + \frac{24}{6} \\
+&= -7 + 4 = -3
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+E &= -45 : (-9) + (-1) \\
+&= 5 - 1 = 4
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+F &= (-2 - 5) \times 4 - 9 \\
+&= (-7) \times 4 - 9 \\
+&= -28 - 9 = -37
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+G &= (-2) + (-3) \times 5 \\
+&= -2 - 15 = -17
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+H &= -7 - 5 \times 4 \\
+&= -7 - 20 = -27
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+I &= 7 \times (-6) - (-2) \\
+&= -42 + 2 = -40
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+J &= 3 \times 5 - (5 - 12) \\
+&= 15 + 7 = 22
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+K &= 5 - (25 - 5 \times 6) \\
+&= 5 - (25 - 30) \\
+&= 5 + 5 = 10
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+L &= 6 \times (-7) - 15 \times (-3) \\
+&= -42 + 45 = 3
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+M &= -38 + 8 \times 7 + 16 : (-4) \\
+&= -38 + 56 - \frac{16}{4} \\
+&= -38 + 56 - 4 \\
+&= 56 - 42 = 14
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+N &= (2 - 6 \times (-3)) : (-5 \times 11 + 35) \\
+&= (2 + 18) : (-55 + 35) \\
+&= 20 : -20 = 1
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+O &= 7 - (-3 + (5 - 4 \times 3)) \\
+&= 7 - (-3 + (5 - 12)) \\
+&= 7 - (-3 - 7) \\
+&= 7 + 10 = 17
+\end{aligned}
+$$
+
+#### Erreur et correction
+
+- **Erreur (ligne N, résultat) :** signe. Le quotient d'un nombre positif par un nombre négatif est négatif.
+- **Correction :**
+
+$$N = 20 : -20 = -1$$
+
+- **À retenir :** appliquer la règle des signes aux quotients comme aux produits. Un nombre négatif placé après un signe d'opération se met entre parenthèses : $20 : (-20)$.
