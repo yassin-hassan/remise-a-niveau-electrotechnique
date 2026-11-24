@@ -65,22 +65,26 @@ Je laisse de côté pour l'instant les probabilités, les statistiques, la propo
 
 En parallèle : le reste du programme de 2nde chez Monka (calcul littéral, fractions, puissances et racines, équations et inéquations, fonctions de référence).
 
-### Phase 3 : préparation au courant alternatif
+### Phase 3 : préparation au courant alternatif, mécanique de base
 
 Le chapitre 3 de Sincère (régime sinusoïdal) utilise les vecteurs de Fresnel et les nombres complexes. Avant de l'aborder :
 
 - Théorème de Pythagore (4e).
 - Cosinus (4e), puis trigonométrie : cosinus, sinus, tangente (3e).
 - Vecteurs (2nde).
+- **Mécanique de base** (niveau lycée) : forces, les trois lois de Newton, travail, énergie cinétique et potentielle, puissance mécanique. Les forces sont des vecteurs, d'où sa place juste après ce chapitre. Ressources : Paul Olivier ou Khan Academy.
 - Cercle trigonométrique et radians (1re).
 - Nombres complexes (Terminale, option maths expertes). C'est la partie la plus longue, à planifier en détail le moment venu.
 
 ### Phase 4 : le cœur du métier
 
+- **Mécanique de rotation** : couple, vitesse angulaire, moment d'inertie, puissance en rotation ($P = C \times \Omega$). C'est le lien entre l'électricité et les machines tournantes.
+- **Électrotechnique, chapitre 1** : machine à courant continu (couple, conversion de puissance, démarrage et inertie).
 - **Électricité, chapitre 3** : régime sinusoïdal, impédance, puissance.
 - **Électrotechnique, chapitre 2** : puissances active, réactive et apparente, théorème de Boucherot, facteur de puissance.
 - **Électrotechnique, chapitre 3** : systèmes triphasés, couplages étoile et triangle. C'est la base des réseaux électriques.
 - **Électrotechnique, chapitre 5** : transformateur, et son rôle dans le transport et la distribution de l'énergie.
+- **Électrotechnique, chapitres 6 et 7** : champ magnétique tournant, machine synchrone triphasée. L'alternateur est la machine qui produit l'électricité du réseau ; sa vitesse de rotation fixe la fréquence (50 Hz).
 
 ## Méthode
 
