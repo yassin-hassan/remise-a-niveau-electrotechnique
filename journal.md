@@ -8,6 +8,8 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Fractions.** Additions et soustractions de fractions avec des nombres relatifs, par mise au même dénominateur, dont des exercices du manuel Myriade 4e. Multiplications et divisions de fractions, avec simplification avant de calculer (Myriade 5e et 4e).
 
+**Problèmes.** Vidéo d'Yvan Monka « Résoudre un problème à l'aide de fractions » (4e) : un marchand vend les $\frac{4}{5}$ de son stock, puis les $\frac{3}{4}$ de ce qu'il restait. Quelle proportion du stock a-t-il vendue, et quelle somme cela représente-t-il ? J'ai eu du mal. Traduire un énoncé en calcul est une difficulté à part entière, à travailler.
+
 **Lacunes.** Je remarque des lacunes en calcul mental, dans les tables de multiplication et dans la division euclidienne. Elles me ralentissent dans les calculs de fractions. Je prévois de réviser ces trois notions en parallèle du programme.
 
 ## 2026-11-21

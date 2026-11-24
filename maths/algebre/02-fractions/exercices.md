@@ -364,3 +364,43 @@ $$
 &= \frac{9}{7}
 \end{aligned}
 $$
+
+### Exercice 12 : calculs avec fractions et priorités opératoires
+
+**Source :** manuel Myriade 4e (Bordas)
+**Date :** 2026-11-23
+**Brouillon :** [scan original](brouillons/2026-11-23-myriade-4e-calculs-mixtes.pdf), [scan corrigé](brouillons/2026-11-23-myriade-4e-calculs-mixtes-corrige.pdf)
+
+#### Énoncé
+
+Calculer et simplifier.
+
+#### Résolution
+
+Les facteurs communs, barrés sur le brouillon, sont écrits ici sans barre.
+
+$$
+\begin{aligned}
+\text{a.}\quad & \left(\frac{14}{6} - \frac{3}{9}\right) \times \frac{-3}{4} \\
+&= \left(\frac{42}{18} - \frac{6}{18}\right) \times \frac{-3}{4} \\
+&= \frac{36}{18} \times \frac{-3}{4} \\
+&= -\frac{6 \times 6 \times 3}{6 \times 3 \times 4} = \frac{6}{4} = \frac{3}{2}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\text{b.}\quad & -\frac{11}{15} - \frac{3}{25} : \frac{9}{35} \\
+&= -\frac{11}{15} - \frac{3}{25} \times \frac{35}{9} = -\frac{11}{15} - \frac{3 \times 7 \times 5}{5 \times 5 \times 3 \times 3} \\
+&= -\frac{11}{15} - \frac{7}{15} = \frac{-18}{15} = -\frac{6}{5}
+\end{aligned}
+$$
+
+#### Erreur et correction
+
+- **Erreur (ligne a, résultat) :** signe. Le signe moins, présent devant la fraction intermédiaire, a disparu dans les deux dernières fractions. Même erreur qu'à l'exercice 10.
+- **Correction :**
+
+$$\text{a.}\quad -\frac{6 \times 6 \times 3}{6 \times 3 \times 4} = -\frac{6}{4} = -\frac{3}{2}$$
+
+- **À retenir :** reporter le signe jusqu'au résultat final.
