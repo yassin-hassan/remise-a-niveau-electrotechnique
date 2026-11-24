@@ -526,3 +526,78 @@ b) Contre-exemple : $\dfrac{3527}{6812}$.
 $$\frac{3 + 5 + 2 + 7}{6 + 8 + 1 + 2} = \frac{17}{17} = 1$$
 
 Or $3527 \neq 6812$, donc $\dfrac{3527}{6812} \neq 1$. Une des égalités est fausse, la conjecture est donc fausse. Pas besoin de tester le produit.
+
+### Exercice 14 : révision, calculs de fractions
+
+**Source :** Yvan Monka, exercices autocorrectifs de calcul fractionnaire (sélection de 12 calculs)
+**Date :** 2026-11-24
+**Brouillon :** [scan, calculs 1 à 4](brouillons/2026-11-24-revision-1-a-4.pdf), [scan, calculs 5 à 8](brouillons/2026-11-24-revision-5-a-8.pdf), [scan, calculs 9 à 11](brouillons/2026-11-24-revision-9-a-11.pdf), [scan corrigé, calculs 9 à 12](brouillons/2026-11-24-revision-9-a-12-corrige.pdf)
+
+#### Énoncé
+
+Effectuer les calculs suivants, sans oublier de simplifier lorsque cela est possible.
+
+#### Résolution
+
+Deux tentatives raturées en haut du brouillon ne sont pas transcrites.
+
+$$1.\quad \frac{4}{5} + \frac{9}{10} - \frac{14}{20} = \frac{16 + 18 - 14}{20} = 1$$
+
+$$2.\quad \frac{7}{3} - \frac{2}{15} - \frac{4}{15} = \frac{35 - 2 - 4}{15} = \frac{29}{15}$$
+
+$$3.\quad \frac{1}{6} + \frac{1}{9} + \frac{1}{18} = \frac{3 + 2 + 1}{18} = \frac{6}{18} = \frac{1}{3}$$
+
+$$4.\quad \frac{7}{9} - \frac{2}{27} + \frac{1}{3} = \frac{21 - 2 + 9}{27} = \frac{28}{27}$$
+
+$$
+\begin{aligned}
+5.\quad & \frac{25}{7} + \frac{13}{14} - \frac{1}{2} = \frac{50 + 13 - 7}{14} = \frac{56}{14} \\
+&= \frac{7 \times 8}{7 \times 2} = 4
+\end{aligned}
+$$
+
+$$6.\quad \frac{13}{10} - \frac{60}{100} = \frac{13 - 6}{10} = \frac{7}{10}$$
+
+$$7.\quad \frac{14}{8} - \frac{15}{12} = \frac{7 \times 2}{4 \times 2} - \frac{3 \times 5}{4 \times 3} = \frac{7 - 5}{4} = \frac{1}{2}$$
+
+$$
+\begin{aligned}
+8.\quad & \frac{10}{15} - \frac{6}{12} = \frac{2 \times 5}{3 \times 5} - \frac{2 \times 3}{4 \times 3} = \frac{2}{3} - \frac{1}{2} \\
+&= \frac{4 - 3}{6} = \frac{1}{6}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+9.\quad & \frac{11}{8} - \left(\frac{3}{4} - \frac{1}{2}\right) \\
+&= \frac{11}{8} - \left(\frac{3 - 2}{4}\right) \\
+&= \frac{11}{8} - \frac{1}{4} = \frac{11 - 2}{8} = \frac{9}{8}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+10.\quad & \left(\frac{7}{12} - \frac{1}{4}\right) + \left(\frac{7}{3} - \frac{5}{4}\right) \\
+&= \frac{7 - 3}{12} + \frac{28 - 15}{12} = \frac{4 + 13}{12} = \frac{17}{12}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+11.\quad & \frac{23}{7} - \left(\frac{5}{3} - \frac{14}{21}\right) = \frac{23}{7} - \left(\frac{35 - 14}{21}\right) = \frac{23}{7} + 1 \\
+&= \frac{30}{7}
+\end{aligned}
+$$
+
+Une première tentative du calcul 12, barrée sur le brouillon, n'est pas transcrite.
+
+$$12.\quad \frac{4}{3} + \left(\frac{1}{6} - \frac{1}{24}\right) = \frac{4}{3} + \frac{4 - 1}{24} = \frac{32 + 3}{24} = \frac{35}{24}$$
+
+#### Erreur et correction
+
+- **Erreur (calcul 11, troisième égalité) :** signe. Le signe moins devant la parenthèse est devenu un plus quand la parenthèse a été remplacée par sa valeur.
+- **Correction :**
+
+$$11.\quad \frac{23}{7} - \left(\frac{35 - 14}{21}\right) = \frac{23}{7} - 1 = \frac{23 - 7}{7} = \frac{16}{7}$$
+
+- **À retenir :** quand une parenthèse précédée d'un signe moins est remplacée par sa valeur, le signe moins reste.
