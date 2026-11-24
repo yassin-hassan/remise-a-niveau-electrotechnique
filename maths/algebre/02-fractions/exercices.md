@@ -404,3 +404,125 @@ $$
 $$\text{a.}\quad -\frac{6 \times 6 \times 3}{6 \times 3 \times 4} = -\frac{6}{4} = -\frac{3}{2}$$
 
 - **À retenir :** reporter le signe jusqu'au résultat final.
+
+### Exercice 13 : fractions égales, cas particulier et cas général
+
+**Source :** Yvan Monka, exercice sur les fractions irréductibles
+**Date :** 2026-11-24
+**Brouillon :** [scan, question 1](brouillons/2026-11-24-fractions-egales-1.pdf), [scan, question 2](brouillons/2026-11-24-fractions-egales-2.pdf), [scan, question 3](brouillons/2026-11-24-fractions-egales-3.pdf)
+
+#### Énoncé
+
+1) Démontrer que les fractions suivantes sont égales :
+$\dfrac{1362}{1816}$, $\dfrac{1 \times 3 \times 6 \times 2}{1 \times 8 \times 1 \times 6}$, $\dfrac{1 + 3 + 6 + 2}{1 + 8 + 1 + 6}$.
+
+2) Même question avec $\dfrac{1635}{1962}$, $\dfrac{1 \times 6 \times 3 \times 5}{1 \times 9 \times 6 \times 2}$, $\dfrac{1 + 6 + 3 + 5}{1 + 9 + 6 + 2}$.
+
+3) Même question avec $\dfrac{4335}{4624}$, $\dfrac{4 \times 3 \times 3 \times 5}{4 \times 6 \times 2 \times 4}$, $\dfrac{4 + 3 + 3 + 5}{4 + 6 + 2 + 4}$.
+
+4) a) Établir une conjecture à l'aide des résultats précédents.
+b) Démontrer à l'aide d'un contre-exemple que cette conjecture est fausse.
+
+#### Résolution
+
+**Question 1**
+
+Décompositions :
+
+$$
+\begin{array}{r|l}
+1362 & 2 \\
+681 & 3 \\
+227 & 1 \\
+ & 227
+\end{array}
+\qquad\qquad
+\begin{array}{r|l}
+1816 & 2 \\
+908 & 2 \\
+454 & 2 \\
+227 & 1 \\
+ & 227
+\end{array}
+$$
+
+Les facteurs communs, barrés sur le brouillon, sont écrits ici sans barre.
+
+$$\frac{2 \times 3 \times 227}{2 \times 2 \times 2 \times 227} = \frac{3}{4}$$
+
+$$\frac{1 \times 3 \times 6 \times 2}{1 \times 8 \times 1 \times 6} = \frac{1 \times 3 \times 3 \times 2 \times 2}{1 \times 2 \times 2 \times 2 \times 1 \times 3 \times 2} = \frac{3}{4}$$
+
+$$\frac{1 + 3 + 6 + 2}{1 + 8 + 1 + 6} = \frac{12}{16} = \frac{3}{4}$$
+
+**Question 2**
+
+Le bord gauche du scan est coupé : le début des deux dernières fractions n'apparaît pas.
+
+Décompositions :
+
+$$
+\begin{array}{r|l}
+1635 & 3 \\
+545 & 5 \\
+109 & 109
+\end{array}
+\qquad\qquad
+\begin{array}{r|l}
+1962 & 2 \\
+981 & 3 \\
+327 & 3 \\
+109 & 109
+\end{array}
+$$
+
+$$\frac{3 \times 5 \times 109}{2 \times 3 \times 3 \times 109} = \frac{5}{6}$$
+
+$$\frac{1 \times 6 \times 3 \times 5}{1 \times 9 \times 6 \times 2} = \frac{2 \times 3 \times 3 \times 5}{3 \times 3 \times 3 \times 2 \times 2} = \frac{5}{6}$$
+
+$$\frac{1 + 6 + 3 + 5}{1 + 9 + 6 + 2} = \frac{15}{18} = \frac{3 \times 5}{3 \times 6} = \frac{5}{6}$$
+
+**Question 3**
+
+Décompositions :
+
+$$
+\begin{array}{r|l}
+4335 & 3 \\
+1445 & 5 \\
+289 & 17 \\
+17 & 17 \\
+1 &
+\end{array}
+\qquad\qquad
+\begin{array}{r|l}
+4624 & 2 \\
+2312 & 2 \\
+1156 & 2 \\
+578 & 2 \\
+289 & 17 \\
+17 & 17 \\
+1 &
+\end{array}
+$$
+
+$$\frac{3 \times 5 \times 17 \times 17}{2 \times 2 \times 2 \times 2 \times 17 \times 17} = \frac{15}{16}$$
+
+$$\frac{4 \times 3 \times 3 \times 5}{4 \times 6 \times 2 \times 4} = \frac{3 \times 3 \times 5}{3 \times 2 \times 2 \times 4} = \frac{15}{16}$$
+
+$$\frac{4 + 3 + 3 + 5}{4 + 6 + 2 + 4} = \frac{15}{16}$$
+
+**Question 4**
+
+Pas de brouillon : réponse rédigée directement, sans scan.
+
+a) Conjecture : pour deux nombres de quatre chiffres $\overline{abcd}$ et $\overline{xyzk}$,
+
+$$\frac{\overline{abcd}}{\overline{xyzk}} = \frac{a \times b \times c \times d}{x \times y \times z \times k} = \frac{a + b + c + d}{x + y + z + k}$$
+
+Ma première formulation, $a \times b \times c \times d / x \times y \times z \times k = a+b+c+d/x+y+z+k = abcd/xyzk$, manquait de précision : sans parenthèses autour des sommes, et $abcd$ pouvant se lire comme un produit au lieu du nombre $\overline{abcd}$.
+
+b) Contre-exemple : $\dfrac{3527}{6812}$.
+
+$$\frac{3 + 5 + 2 + 7}{6 + 8 + 1 + 2} = \frac{17}{17} = 1$$
+
+Or $3527 \neq 6812$, donc $\dfrac{3527}{6812} \neq 1$. Une des égalités est fausse, la conjecture est donc fausse. Pas besoin de tester le produit.

@@ -8,6 +8,8 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Tables de multiplication.** J'ai mis en place un paquet Anki avec les multiplications que je rate encore, dans les deux sens : $7 \times 8 = ?$ et $56 = ? \times ?$.
 
+**Fractions.** Exercice d'Yvan Monka sur les fractions irréductibles : décomposer de grands nombres en facteurs premiers (calculatrice pour certaines divisions), établir une conjecture, puis la réfuter par un contre-exemple. Je retiens qu'un nombre est premier si aucun nombre premier inférieur ou égal à sa racine carrée ne le divise.
+
 ## 2026-11-23
 
 **Nombres relatifs.** Suite du cours de 4e d'Yvan Monka : signe d'un produit sans le calculer. Rappel de ce que j'avais oublié : $0$ est à la fois positif et négatif, donc $0 = -0$. Calculs avec des nombres relatifs, priorités opératoires, puissances et quotients, dont des exercices du manuel Myriade 4e. Fin du chapitre Nombres relatifs de 4e.
