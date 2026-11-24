@@ -6,7 +6,7 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Nombres relatifs.** Suite du cours de 4e d'Yvan Monka : signe d'un produit sans le calculer. Rappel de ce que j'avais oublié : $0$ est à la fois positif et négatif, donc $0 = -0$. Calculs avec des nombres relatifs, priorités opératoires, puissances et quotients, dont des exercices du manuel Myriade 4e. Fin du chapitre Nombres relatifs de 4e.
 
-**Fractions.** Additions et soustractions de fractions avec des nombres relatifs, par mise au même dénominateur, dont des exercices du manuel Myriade 4e. Multiplications et divisions de fractions, avec simplification avant de calculer (Myriade 5e et 4e).
+**Fractions.** Additions et soustractions de fractions avec des nombres relatifs, par mise au même dénominateur, dont des exercices du manuel Myriade 4e. Multiplications et divisions de fractions, avec simplification avant de calculer (Myriade 5e et 4e). Fin du chapitre Fractions de 4e.
 
 **Problèmes.** Vidéo d'Yvan Monka « Résoudre un problème à l'aide de fractions » (4e) : un marchand vend les $\frac{4}{5}$ de son stock, puis les $\frac{3}{4}$ de ce qu'il restait. Quelle proportion du stock a-t-il vendue, et quelle somme cela représente-t-il ? J'ai eu du mal. Traduire un énoncé en calcul est une difficulté à part entière, à travailler.
 
