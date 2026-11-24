@@ -349,9 +349,9 @@ $$
 
 #### Erreur et correction
 
-- **Erreur (ligne N, résultat) :** signe. Le quotient d'un nombre positif par un nombre négatif est négatif.
+- **Erreur (ligne N, dernière ligne) :** signe du résultat, et nombre négatif sans parenthèses après le signe $:$.
 - **Correction :**
 
-$$N = 20 : -20 = -1$$
+$$N = 20 : (-20) = -1$$
 
-- **À retenir :** appliquer la règle des signes aux quotients comme aux produits. Un nombre négatif placé après un signe d'opération se met entre parenthèses : $20 : (-20)$.
+- **À retenir :** la règle des signes s'applique aux quotients comme aux produits. Un nombre négatif placé après un signe d'opération se met entre parenthèses.
