@@ -2,6 +2,10 @@
 
 Une entrée par jour de travail, la plus récente en haut.
 
+## 2026-11-25
+
+**Fractions.** Écriture d'un nombre décimal sous forme de fraction décimale (exercice arrêté après dix nombres, le principe étant acquis). Dix calculs de priorités opératoires avec des divisions de fractions, tirés d'une fiche d'Yvan Monka. Erreurs corrigées : une décomposition incomplète, une addition calculée comme une soustraction, un signe perdu. Une erreur de recopie de l'énoncé, non refaite.
+
 ## 2026-11-24
 
 **Nombres relatifs.** Exercice d'Yvan Monka : quinze calculs avec priorités opératoires, en détaillant les étapes. Une erreur de signe sur un quotient, corrigée.

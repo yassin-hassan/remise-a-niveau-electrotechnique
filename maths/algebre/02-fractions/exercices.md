@@ -672,3 +672,144 @@ $$10.\quad \frac{5}{12} - \left(\frac{2}{9} + \frac{1}{36}\right) = \frac{5}{12}
 $$10.\quad \frac{5}{12} - \left(\frac{2}{9} + \frac{1}{36}\right) = \frac{5}{12} - \frac{9}{36} = \frac{5 - 3}{12} = \frac{1}{6}$$
 
 - **À retenir :** avant d'additionner deux fractions, vérifier qu'elles ont le même dénominateur, y compris à l'intérieur d'une parenthèse.
+
+### Exercice 16 : fractions décimales
+
+**Source :** Yvan Monka, dominos de fractions décimales (adapté)
+**Date :** 2026-11-25
+**Brouillon :** [scan, nombres 1 à 10](brouillons/2026-11-25-fractions-decimales-1-a-10.pdf)
+
+#### Énoncé
+
+1) Écrire chaque nombre décimal sous forme de fraction décimale (dénominateur 10, 100 ou 1000) : 152,36 ; 12,3 ; 0,041 ; 0,013 ; 3,06 ; 0,95 ; 25,4 ; 2,54 ; 1,23 ; 0,123 ; 15,3 ; 5,52 ; 352,1 ; 0,254 ; 9,5.
+
+2) Écrire chaque fraction sous forme de nombre décimal : $\frac{254}{10}$, $\frac{95}{100}$, $\frac{3521}{10}$, $\frac{95}{10}$, $\frac{13}{1000}$, $\frac{153}{10}$, $\frac{123}{100}$, $\frac{41}{1000}$, $\frac{306}{100}$, $\frac{254}{100}$, $\frac{15236}{100}$, $\frac{123}{10}$, $\frac{552}{100}$, $\frac{123}{1000}$, $\frac{254}{1000}$.
+
+#### Résolution
+
+**Question 1**
+
+Une ligne raturée en haut du brouillon n'est pas transcrite.
+
+1. $152{,}36 = 152 + \dfrac{36}{100}$
+2. $12{,}3 = 12 + \dfrac{3}{10}$
+3. $0{,}041 = \dfrac{41}{1000}$
+4. $0{,}013 = \dfrac{13}{1000}$
+5. $3{,}06 = 3 + \dfrac{6}{100}$
+6. $0{,}95 = \dfrac{95}{100}$
+7. $25{,}4 = 25 + \dfrac{4}{10}$
+8. $2{,}54 = 2 + \dfrac{54}{100}$
+9. $1{,}23 = 1 + \dfrac{23}{100}$
+10. $0{,}123 = \dfrac{123}{1000}$
+
+Aux nombres 1, 2, 5, 7, 8 et 9, la réponse est restée sous la forme « entier + fraction » ; la forme demandée était une seule fraction décimale (par exemple $12{,}3 = \dfrac{123}{10}$).
+
+Exercice arrêté après la question 1, nombres 1 à 10 : le principe est acquis, la suite était répétitive.
+
+### Exercice 17 : priorités opératoires avec division
+
+**Source :** Yvan Monka, dominos de calcul fractionnaire, niveau 2 (sélection de 10 calculs)
+**Date :** 2026-11-25
+**Brouillon :** [scan, calculs 1 à 4](brouillons/2026-11-25-priorites-division-1-a-4.pdf), [scan, calculs 5 à 10](brouillons/2026-11-25-priorites-division-5-a-10.pdf), [scan corrigé, calculs 5 à 10](brouillons/2026-11-25-priorites-division-5-a-10-corrige.pdf)
+
+#### Énoncé
+
+Calculer :
+
+1. $\frac{8}{3} - \frac{5}{3} : \frac{20}{21}$
+2. $3 - \frac{15}{9} \times \frac{12}{5}$
+3. $\frac{1}{5} - \frac{3}{5} : \frac{12}{7}$
+4. $\left(3 - \frac{5}{2}\right) : \left(1 + \frac{1}{5}\right)$
+5. $\left(2 + \frac{2}{3}\right) : \left(\frac{4}{5} - \frac{2}{3}\right)$
+6. $1 - \left(\frac{1}{4} + \frac{3}{4} \times \frac{4}{5}\right)$
+7. $\frac{4}{13} - \frac{15}{13} : \frac{1}{3}$
+8. $\left(\frac{4}{13} - \frac{15}{13}\right) : \frac{1}{3}$
+9. $\frac{-3}{10} : \frac{4}{5} + \frac{3}{5}$
+10. $\frac{-3}{10} : \left(\frac{4}{5} + \frac{3}{5}\right)$
+
+#### Résolution
+
+Les facteurs communs, barrés sur le brouillon, sont écrits ici sans barre.
+
+$$
+\begin{aligned}
+1.\quad & \frac{8}{3} - \frac{5}{3} : \frac{20}{21} = \frac{8}{3} - \frac{5}{3} \times \frac{21}{20} = \frac{8}{3} - \frac{105}{60} \\
+&= \frac{8}{3} - \frac{5 \times 7 \times 3}{3 \times 5 \times 4} = \frac{8}{3} - \frac{7}{4} = \frac{32 - 21}{12} = \frac{11}{12}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+2.\quad & 3 - \frac{15}{9} \times \frac{12}{15} = 3 - \frac{3 \times 5 \times 3 \times 2 \times 2}{3 \times 3 \times 3 \times 5} \\
+&= 3 - \frac{4}{3} = \frac{9 - 4}{3} = \frac{5}{3}
+\end{aligned}
+$$
+
+Erreur de recopie de l'énoncé ($\frac{12}{15}$ au lieu de $\frac{12}{5}$) : calcul juste pour la fraction recopiée, non refait.
+
+$$
+\begin{aligned}
+3.\quad & \frac{1}{5} - \frac{3}{5} : \frac{12}{7} = \frac{1}{5} - \frac{3 \times 7}{5 \times 12} = \frac{1}{5} - \frac{7}{20} \\
+&= \frac{4 - 7}{20} = \frac{-3}{20}
+\end{aligned}
+$$
+
+$$4.\quad \left(3 - \frac{5}{2}\right) : \left(1 + \frac{1}{5}\right) = \frac{1}{2} : \frac{6}{5} = \frac{5}{12}$$
+
+$$
+\begin{aligned}
+5.\quad & \left(2 + \frac{2}{3}\right) : \left(\frac{4}{5} - \frac{2}{3}\right) = \frac{8}{3} : \frac{2}{15} \\
+&= \frac{2 \times 2 \times 3 \times 5}{3 \times 2} = 10
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+6.\quad & 1 - \left(\frac{1}{4} + \frac{3}{4} \times \frac{4}{5}\right) = 1 - \left(\frac{1}{4} + \frac{3}{5}\right) = 1 - \left(-\frac{7}{20}\right) \\
+&= 1 + \frac{7}{20} = \frac{27}{20}
+\end{aligned}
+$$
+
+Le calcul 7 a été tenté deux fois avant d'aboutir ; les deux tentatives, barrées sur le brouillon, ne sont pas transcrites.
+
+$$
+\begin{aligned}
+7.\quad & \frac{4}{13} - \frac{15}{13} : \frac{1}{3} = \frac{4}{13} - \frac{15 \times 3}{13} = \frac{4}{13} - \frac{45}{13} \\
+&= -\frac{41}{13}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+8.\quad & \left(\frac{4}{13} - \frac{15}{13}\right) : \frac{1}{3} = \frac{11}{13} : \frac{1}{3} = \frac{11}{13} \times 3 \\
+&= \frac{33}{13}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+9.\quad & \frac{-3}{10} : \frac{4}{5} + \frac{3}{5} = -\frac{3}{10} \times \frac{5}{4} + \frac{3}{5} = -\frac{3 \times 5}{5 \times 2 \times 4} + \frac{3}{5} \\
+&= -\frac{3}{8} + \frac{3}{5} = \frac{-15 + 24}{40} = \frac{9}{40}
+\end{aligned}
+$$
+
+$$10.\quad \frac{-3}{10} : \left(\frac{4}{5} + \frac{3}{5}\right) = \frac{-3}{10} : \frac{7}{5} = \frac{-3}{10} \times \frac{5}{7} = \frac{-3}{14}$$
+
+#### Erreur et correction
+
+- **Erreur (calcul 5, deuxième ligne) :** décomposition incomplète : $8$ décomposé en $2 \times 2$ au lieu de $2 \times 2 \times 2$.
+- **Correction :**
+
+$$5.\quad \frac{8}{3} : \frac{2}{15} = \frac{2 \times 2 \times 2 \times 3 \times 5}{3 \times 2} = 20$$
+
+- **Erreur (calcul 6, première ligne) :** dans la parenthèse, $\frac{1}{4} + \frac{3}{5}$ calculé comme une soustraction ($-\frac{7}{20}$).
+- **Correction :**
+
+$$6.\quad 1 - \left(\frac{1}{4} + \frac{3}{5}\right) = 1 - \frac{17}{20} = \frac{3}{20}$$
+
+- **Erreur (calcul 8, première ligne) :** signe perdu : $4 - 15$ écrit $11$.
+- **Correction :**
+
+$$8.\quad \left(\frac{4}{13} - \frac{15}{13}\right) : \frac{1}{3} = -\frac{11}{13} : \frac{1}{3} = -\frac{33}{13}$$
+
+- **À retenir :** vérifier une décomposition en recalculant le produit, et garder le signe d'une différence négative.
