@@ -101,6 +101,9 @@ maths/algebre/
   02-fractions/
     exercices.md
     brouillons/
+  03-puissances/
+    exercices.md
+    brouillons/
 journal.md
 ```
 

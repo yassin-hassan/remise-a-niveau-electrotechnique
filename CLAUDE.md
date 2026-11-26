@@ -12,3 +12,4 @@ Ce dépôt documente ma remise à niveau en mathématiques et en électrotechniq
 6. **Langue :** français. Pas d'emojis, pas de formules creuses.
 7. **Sécurité :** pour le projet ESP32, ne propose jamais de manipulation sur du 230 V. Uniquement pince ampèremétrique non invasive et très basse tension.
 8. **Commits :** propose un message de commit court en français (ex. `maths: équations, exercices 1 à 8`), mais laisse-moi valider avant de committer. N'ajoute jamais de ligne `Co-Authored-By` ni aucune mention de Claude dans les commits.
+9. **Nouveau chapitre.** Quand je commence un nouveau chapitre, crée son dossier numéroté à la suite des autres (ex. `maths/algebre/03-puissances/`), avec un `exercices.md` (titre, source, date) et un dossier `brouillons/` (avec un `.gitkeep` tant qu'il est vide). Ajoute-le à l'arborescence de la section « Organisation du dépôt » du README.
