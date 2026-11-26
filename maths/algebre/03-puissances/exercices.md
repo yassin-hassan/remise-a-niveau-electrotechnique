@@ -2,3 +2,37 @@
 
 **Source :** Yvan Monka, cours de 4e et de 3e sur les puissances
 **Date :** 2026-11-26
+
+### Exercice 1 : notation scientifique
+
+**Source :** à préciser
+**Date :** 2026-11-26
+**Brouillon :** [scan](brouillons/2026-11-26-notation-scientifique.pdf)
+
+#### Énoncé
+
+Écrire les nombres suivants en notation scientifique.
+
+$A = 8\,300\,000$ ; $B = 19\,308\,000\,000$ ; $C = 0{,}00023$ ; $D = 0{,}000\,045$ ; $E = 147{,}3 \times 10^5$ ; $F = 0{,}0125 \times 10^{-2}$
+
+#### Résolution
+
+$$A = 8\,300\,000 = 8{,}3 \times 10^6$$
+
+$$B = 19\,308\,000\,000 = 1{,}9308 \times 10^{10}$$
+
+$$C = 0{,}00023 = 2{,}3 \times 10^{-4}$$
+
+Vérification de $C$ :
+
+$$2{,}3 \times 10^{-4} = 0{,}23 \times 10^{-3} = 0{,}00023$$
+
+$$D = 0{,}000\,045 = 4{,}5 \times 10^{-5}$$
+
+$$E = 147{,}3 \times 10^5 = 1{,}473 \times 10^7$$
+
+$$F = 0{,}0125 \times 10^{-2} = 1{,}125 \times 10^{-4}$$
+
+#### Résultat
+
+$A = 8{,}3 \times 10^6$ ; $B = 1{,}9308 \times 10^{10}$ ; $C = 2{,}3 \times 10^{-4}$ ; $D = 4{,}5 \times 10^{-5}$ ; $E = 1{,}473 \times 10^7$ ; $F = 1{,}125 \times 10^{-4}$
