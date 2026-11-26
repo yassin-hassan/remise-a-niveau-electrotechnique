@@ -2,6 +2,12 @@
 
 Une entrée par jour de travail, la plus récente en haut.
 
+## 2026-11-27
+
+**Puissances.** Exercice d'Yvan Monka sur la croissance de bactéries (doublement toutes les 30 minutes pendant 24 h), résolu de tête.
+
+**À travailler.** Je dois faire beaucoup plus d'exercices de conversion : entre différentes unités, et entre notation scientifique et écriture décimale.
+
 ## 2026-11-26
 
 **Puissances.** Début du chapitre Puissances, cours de 4e et de 3e d'Yvan Monka.
