@@ -2,6 +2,10 @@
 
 Une entrée par jour de travail, la plus récente en haut.
 
+## 2026-11-26
+
+**Puissances.** Début du chapitre Puissances, cours de 4e et de 3e d'Yvan Monka.
+
 ## 2026-11-25
 
 **Fractions.** Écriture d'un nombre décimal sous forme de fraction décimale (exercice arrêté après dix nombres, le principe étant acquis). Dix calculs de priorités opératoires avec des divisions de fractions, tirés d'une fiche d'Yvan Monka. Erreurs corrigées : une décomposition incomplète, une addition calculée comme une soustraction, un signe perdu. Une erreur de recopie de l'énoncé, non refaite.
