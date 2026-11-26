@@ -55,3 +55,37 @@ Il suffit de savoir combien il y a de périodes de 30 minutes dans 24 h : il y e
 #### Résultat
 
 $$2^{48}$$
+
+### Exercice 3 : écriture décimale et notation scientifique
+
+**Source :** manuel Myriade 4e
+**Date :** 2026-11-27
+**Brouillon :** [scan](brouillons/2026-11-27-myriade-decimale-scientifique.pdf)
+
+#### Énoncé
+
+1) Écrire sous forme décimale : a. $81 \times 10^3$ ; b. $0{,}045 \times 10^{-5}$.
+
+2) Écrire sous forme scientifique : a. $920\,000$ ; b. $0{,}000\,0122$.
+
+#### Résolution
+
+**Question 1**
+
+a. $81 \times 10^3 = 81\,000$
+
+b. Une première tentative raturée n'est pas transcrite.
+
+$$0{,}045 \times 10^{-5} = 0{,}000\,000\,45$$
+
+**Question 2**
+
+a. $920\,000 = 9{,}2 \times 10^5$
+
+b. $0{,}000\,0122 = 1{,}22 \times 10^{-5}$
+
+#### Résultat
+
+1) a. $81\,000$ ; b. $0{,}000\,000\,45$
+
+2) a. $9{,}2 \times 10^5$ ; b. $1{,}22 \times 10^{-5}$
