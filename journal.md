@@ -6,7 +6,7 @@ Une entrée par jour de travail, la plus récente en haut.
 
 **Puissances.** Exercice d'Yvan Monka sur la croissance de bactéries (doublement toutes les 30 minutes pendant 24 h), résolu de tête. J'ai appris que pour modéliser un choix que l'on fait plusieurs fois, la base est le nombre de choix possibles et l'exposant est le nombre de fois que l'on fait ce choix.
 
-**À travailler.** Je dois faire beaucoup plus d'exercices de conversion : entre différentes unités, et entre notation scientifique et écriture décimale.
+**À travailler.** Je dois faire beaucoup plus d'exercices de conversion : entre différentes unités, et entre notation scientifique et écriture décimale. J'ai du mal avec les exercices du type « exprimer sous forme décimale » quand il y a des virgules : j'ai besoin de beaucoup plus d'entraînement là-dessus.
 
 ## 2026-11-26
 
