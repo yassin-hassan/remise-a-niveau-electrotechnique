@@ -131,3 +131,46 @@ $$60 \times 10^{-9} \text{ m} = 6 \times 10^{-8} \text{ m} \qquad 140 \times 10^
 2) $8{,}13646 \times 10^{16}$ m
 
 3) entre $6 \times 10^{-8}$ m et $1{,}4 \times 10^{-7}$ m
+
+### Exercice 5 : ranger des planètes selon leur distance au Soleil
+
+**Source :** à préciser
+**Date :** 2026-11-27
+
+#### Énoncé
+
+On donne les distances séparant des planètes de notre système solaire au Soleil :
+
+- la Terre : $1{,}5 \times 10^8$ kilomètres ;
+- Saturne : $1{,}5 \times 10^9$ kilomètres ;
+- Vénus : $1{,}1 \times 10^8$ kilomètres ;
+- Mars : $2{,}2 \times 10^8$ kilomètres.
+
+Ranger ces planètes selon leur éloignement au Soleil.
+
+#### Résolution
+
+On regarde d'abord l'exposant. S'ils sont égaux, on compare le facteur.
+
+#### Résultat
+
+Vénus, Terre, Mars, Saturne.
+
+### Exercice 6 : ranger des cellules et un virus selon leur dimension
+
+**Source :** à préciser
+**Date :** 2026-11-27
+
+#### Énoncé
+
+On a déterminé les dimensions de certaines cellules et virus. Voici les résultats :
+
+- le diamètre d'une cellule animale : $5 \times 10^{-2}$ millimètre ;
+- le diamètre d'une cellule végétale : $8{,}5 \times 10^{-2}$ millimètre ;
+- le diamètre d'un virus : $5{,}5 \times 10^{-3}$ millimètre.
+
+Ranger les cellules et virus dans l'ordre croissant de leur dimension.
+
+#### Résultat
+
+Virus, cellule animale, cellule végétale.
