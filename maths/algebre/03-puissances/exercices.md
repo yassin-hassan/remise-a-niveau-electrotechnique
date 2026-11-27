@@ -174,3 +174,27 @@ Ranger les cellules et virus dans l'ordre croissant de leur dimension.
 #### Résultat
 
 Virus, cellule animale, cellule végétale.
+
+### Exercice 7 : produits et quotients de puissances de 10
+
+**Source :** Yvan Monka, puissances
+**Date :** 2026-11-27
+**Brouillon :** [scan](brouillons/2026-11-27-produits-quotients-puissances-de-10.pdf)
+
+#### Énoncé
+
+Écrire sous la forme $10^n$ ou $10^{-n}$.
+
+$A = 10^4 \times 10^7$ ; $B = \dfrac{10^5}{10^7}$ ; $C = \dfrac{10^8}{10^{-5}}$
+
+#### Résolution
+
+$$A = 10^4 \times 10^7 = 10^{4+7} = 10^{11}$$
+
+$$B = \frac{10^5}{10^7} = 10^{5-7} = 10^{-2}$$
+
+$$C = \frac{10^8}{10^{-5}} = 10^{13}$$
+
+#### Résultat
+
+$A = 10^{11}$ ; $B = 10^{-2}$ ; $C = 10^{13}$
