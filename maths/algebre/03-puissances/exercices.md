@@ -5,7 +5,7 @@
 
 ### Exercice 1 : notation scientifique
 
-**Source :** à préciser
+**Source :** Yvan Monka, puissances
 **Date :** 2026-11-26
 **Brouillon :** [scan](brouillons/2026-11-26-notation-scientifique.pdf)
 
@@ -134,7 +134,7 @@ $$60 \times 10^{-9} \text{ m} = 6 \times 10^{-8} \text{ m} \qquad 140 \times 10^
 
 ### Exercice 5 : ranger des planètes selon leur distance au Soleil
 
-**Source :** à préciser
+**Source :** Yvan Monka, puissances
 **Date :** 2026-11-27
 
 #### Énoncé
@@ -158,7 +158,7 @@ Vénus, Terre, Mars, Saturne.
 
 ### Exercice 6 : ranger des cellules et un virus selon leur dimension
 
-**Source :** à préciser
+**Source :** Yvan Monka, puissances
 **Date :** 2026-11-27
 
 #### Énoncé
