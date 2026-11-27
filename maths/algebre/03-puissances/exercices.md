@@ -198,3 +198,57 @@ $$C = \frac{10^8}{10^{-5}} = 10^{13}$$
 #### Résultat
 
 $A = 10^{11}$ ; $B = 10^{-2}$ ; $C = 10^{13}$
+
+### Exercice 8 : écriture décimale et puissance de 10
+
+**Source :** Yvan Monka, puissances
+**Date :** 2026-11-27
+**Brouillon :** [scan](brouillons/2026-11-27-ecriture-decimale-puissance-de-10.pdf) (le haut de la page reprend l'exercice 7)
+
+Les lettres A, B et C sont coupées sur le scan ; seule la lettre D est visible.
+
+#### Énoncé
+
+1) Écrire les nombres sous forme décimale : $A = 10^3$ ; $B = 10^7$
+
+2) Écrire sous forme d'une puissance de 10 : $C = 10\,000$ ; $D = 1\,000\,000$
+
+#### Résolution
+
+**Question 1**
+
+$$A = 10^3 = 10 \times 10 \times 10 = 1\,000$$
+
+$$B = 10^7 = 10\,000\,000$$
+
+Une première écriture de $B$ raturée n'est pas transcrite.
+
+**Question 2**
+
+$$C = 10\,000 = 10^4 \qquad D = 1\,000\,000 = 10^6$$
+
+#### Résultat
+
+$A = 1\,000$ ; $B = 10\,000\,000$ ; $C = 10^4$ ; $D = 10^6$
+
+### Exercice 9 : exprimer sous forme décimale
+
+**Source :** Yvan Monka, puissances
+**Date :** 2026-11-27
+**Brouillon :** [scan](brouillons/2026-11-27-exprimer-sous-forme-decimale.pdf)
+
+#### Énoncé
+
+Exprimer sous forme décimale : $A = 325 \times 10^4$ ; $B = 42{,}1 \times 10^6$
+
+#### Résolution
+
+$$A = 325 \times 10^4 = 325 \times 10\,000 = 3\,250\,000$$
+
+$$B = 42{,}1 \times 10^6 = 42\,100\,000$$
+
+Pour $B$, trois tentatives raturées ne sont pas transcrites.
+
+#### Résultat
+
+$A = 3\,250\,000$ ; $B = 42\,100\,000$
