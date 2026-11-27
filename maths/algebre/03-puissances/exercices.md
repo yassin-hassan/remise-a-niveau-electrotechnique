@@ -66,7 +66,7 @@ $$2^{48}$$
 
 1) Écrire sous forme décimale : a. $81 \times 10^3$ ; b. $0{,}045 \times 10^{-5}$.
 
-2) Écrire sous forme scientifique : a. $920\,000$ ; b. $0{,}000\,0122$.
+2) Écrire sous forme scientifique : a. $920\,000$ ; b. $0{,}000\,0177$.
 
 #### Résolution
 
@@ -82,10 +82,52 @@ $$0{,}045 \times 10^{-5} = 0{,}000\,000\,45$$
 
 a. $920\,000 = 9{,}2 \times 10^5$
 
-b. $0{,}000\,0122 = 1{,}22 \times 10^{-5}$
+b. $0{,}000\,0177 = 1{,}77 \times 10^{-5}$
 
 #### Résultat
 
 1) a. $81\,000$ ; b. $0{,}000\,000\,45$
 
-2) a. $9{,}2 \times 10^5$ ; b. $1{,}22 \times 10^{-5}$
+2) a. $9{,}2 \times 10^5$ ; b. $1{,}77 \times 10^{-5}$
+
+### Exercice 4 : longueurs en mètres, en notation scientifique
+
+**Source :** Yvan Monka
+**Date :** 2026-11-27
+**Brouillon :** [scan, question 1](brouillons/2026-11-27-longueurs-1.pdf) (le haut de la page reprend l'exercice 3), [scan, questions 2 et 3](brouillons/2026-11-27-longueurs-2.pdf)
+
+#### Énoncé
+
+Écrire les longueurs suivantes en mètres et sous forme scientifique.
+
+1) La distance Saturne-Soleil est égale à 1 milliard 427 millions de kilomètres.
+
+2) L'étoile Sirius se trouve à 81 364,6 milliards de km.
+
+3) Le diamètre du virus SARS-CoV-2 est compris entre 60 et 140 nanomètres.
+
+#### Résolution
+
+**Question 1**
+
+Une première écriture raturée n'est pas transcrite.
+
+$$1\,427\,000\,000 \text{ km} = 1{,}427 \times 10^9 \text{ km} = 1{,}427 \times 10^{12} \text{ m}$$
+
+**Question 2**
+
+$$81\,364\,600\,000\,000 \text{ km} = 8{,}13646 \times 10^{16} \text{ m}$$
+
+**Question 3**
+
+$1 \text{ nm} = 10^{-9} \text{ m}$. Une première ligne raturée n'est pas transcrite.
+
+$$60 \times 10^{-9} \text{ m} = 6 \times 10^{-8} \text{ m} \qquad 140 \times 10^{-9} \text{ m} = 1{,}4 \times 10^{-7} \text{ m}$$
+
+#### Résultat
+
+1) $1{,}427 \times 10^{12}$ m
+
+2) $8{,}13646 \times 10^{16}$ m
+
+3) entre $6 \times 10^{-8}$ m et $1{,}4 \times 10^{-7}$ m
