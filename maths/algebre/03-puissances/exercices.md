@@ -257,9 +257,9 @@ $A = 3\,250\,000$ ; $B = 42\,100\,000$
 
 **Source :** Yvan Monka, puissances
 **Date :** 2026-11-28
-**Brouillon :** [scan](brouillons/2026-11-28-calculs-puissances-de-10-gris.pdf)
+**Brouillon :** [scan, gris A à C](brouillons/2026-11-28-calculs-puissances-de-10-gris.pdf), [scan, gris D et jaune](brouillons/2026-11-28-calculs-puissances-de-10-jaune.pdf)
 
-La consigne n'apparaît pas sur l'énoncé fourni. Seule la ligne « gris » a été traitée.
+La consigne n'apparaît pas sur l'énoncé fourni. Les lignes « gris » et « jaune » ont été traitées.
 
 #### Énoncé
 
@@ -297,12 +297,53 @@ $$= \frac{3 \times 1{,}2 \times 10^{-10}}{0{,}2 \times 10^{-7}} = \frac{3 \times
 
 $$= 18 \times 10^{-3} = 1{,}8 \times 10^{-2} = 0{,}18$$
 
+$$D = \frac{46 \times (10^3)^2}{2 \times 10^2} = \frac{46 \times 10^6}{2 \times 10^2}$$
+
+$$= \frac{46}{2} \times 10^4 = 23 \times 10^4 = 2{,}3 \times 10^3$$
+
+$$= 2\,300$$
+
+**Ligne jaune**
+
+$$A = 47 \text{ millions} \times 10^{-5} = 47 \times 10^6 \times 10^{-5}$$
+
+$$= 47 \times 10 = 4{,}7 \times 10^2 = 470$$
+
+Une première écriture raturée n'est pas transcrite.
+
+$$B = \frac{16 \times 10^{-5} \times 3 \times 10^4}{24 \times 10^{-3}}$$
+
+$$= \frac{39 \times 10^{-1}}{24 \times 10^{-3}} = \frac{39}{24} \times 10^2 = \frac{3 \times 16}{3 \times 8} \times 10^2$$
+
+$$= 2 \times 10^2 = 200$$
+
+Sur le brouillon, les 3 de $\frac{3 \times 16}{3 \times 8}$ sont barrés (simplification).
+
 #### Résultat
 
-$A = 0{,}00047$ ; $B = 660$ ; $C = 0{,}018$
+Gris : $A = 0{,}00047$ ; $B = 660$ ; $C = 0{,}018$ ; $D = 2{,}3 \times 10^5$
+
+Jaune : $A = 470$ ; $B = 2 \times 10^2$
 
 #### Erreur et correction
+
+**Gris C**
 
 - **Erreur :** $C$, dernière égalité. J'avais écrit $1{,}8 \times 10^{-2} = 0{,}18$ : la virgule n'était décalée que d'un rang au lieu de deux.
 - **Correction :** $1{,}8 \times 10^{-2} = 0{,}018$ (corrigé sur le brouillon).
 - **À retenir :** pour $10^{-n}$, décaler la virgule de $n$ rangs vers la gauche, et compter les rangs.
+
+**Gris D**
+
+- **Erreur :** j'avais écrit $23 \times 10^4 = 2{,}3 \times 10^3 = 2\,300$ : en passant de 23 à 2,3, j'ai enlevé 1 à l'exposant au lieu de l'ajouter.
+- **Correction :** fin de calcul barrée sur le brouillon et remplacée par $23 \times 10^4 = 2{,}3 \times 10^5$.
+- **À retenir :** si le facteur devant devient 10 fois plus petit, l'exposant augmente de 1.
+
+**Jaune B**
+
+- **Erreur :** au numérateur, j'avais écrit $39 \times 10^{-1}$ alors que $16 \times 3$ ne donne pas 39. La suite ($\frac{3 \times 16}{3 \times 8}$) ne correspondait plus à 39.
+- **Correction :** lignes barrées sur le brouillon et remplacées par :
+
+$$B = \frac{16 \times 10^{-5} \times 3 \times 10^4}{24 \times 10^{-3}} = \frac{48}{24} \times 10^2 = 2 \times 10^2$$
+
+- **À retenir :** vérifier chaque produit intermédiaire avant de continuer.
