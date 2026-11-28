@@ -257,9 +257,9 @@ $A = 3\,250\,000$ ; $B = 42\,100\,000$
 
 **Source :** Yvan Monka, puissances
 **Date :** 2026-11-28
-**Brouillon :** [scan, gris A à C](brouillons/2026-11-28-calculs-puissances-de-10-gris.pdf), [scan, gris D et jaune](brouillons/2026-11-28-calculs-puissances-de-10-jaune.pdf), [scan, bleu A à C](brouillons/2026-11-28-calculs-puissances-de-10-bleu.pdf)
+**Brouillon :** [scan, gris A à C](brouillons/2026-11-28-calculs-puissances-de-10-gris.pdf), [scan, gris D et jaune](brouillons/2026-11-28-calculs-puissances-de-10-jaune.pdf), [scan, bleu A à C](brouillons/2026-11-28-calculs-puissances-de-10-bleu.pdf), [scan, bleu D, vert A et B](brouillons/2026-11-28-calculs-puissances-de-10-vert.pdf)
 
-La consigne n'apparaît pas sur l'énoncé fourni. Les lignes « gris » et « jaune » ont été traitées, ainsi que A, B et C de la ligne « bleu ».
+La consigne n'apparaît pas sur l'énoncé fourni. Les lignes « gris », « jaune » et « bleu » ont été traitées, ainsi que A et B de la ligne « vert ».
 
 #### Énoncé
 
@@ -341,13 +341,31 @@ $$= \frac{96 \times 5}{6} \times 10 = \frac{480}{6} \times 10 = \frac{48}{6} \ti
 
 $$= 8 \times 10^2 = 800$$
 
+$$D = \frac{11{,}5 \times (10^3)^{-1}}{0{,}5 \times 10^{-5}} = \frac{11{,}5}{0{,}5} \times 10^2$$
+
+$$= \frac{115 \times 10^{-1}}{5 \times 10^{-1}} \times 10^2 = \frac{115}{5} \times 10^2 = 23 \times 10^2$$
+
+$$= 2{,}3 \times 10^3 = 2\,300$$
+
+Sur le brouillon, plusieurs exposants sont réécrits par-dessus, et trois tentatives raturées ne sont pas transcrites.
+
+**Ligne vert**
+
+$$A = \frac{115 \times 10^5}{5 \times (10^2)^3} = 23 \times 10^{-1} = 2{,}3$$
+
+$$B = 66 \text{ milliers} \times 10^{-5} = 66 \times 10^3 \times 10^{-5} = 66 \times 10^{-2}$$
+
+$$= 0{,}66 = 6{,}6 \times 10^{-1}$$
+
 #### Résultat
 
 Gris : $A = 0{,}00047$ ; $B = 660$ ; $C = 0{,}018$ ; $D = 2{,}3 \times 10^5$
 
 Jaune : $A = 470$ ; $B = 2 \times 10^2$
 
-Bleu : $A = 4\,700\,000\,000$ ; $B = 0{,}066$ ; $C = 800$
+Bleu : $A = 4\,700\,000\,000$ ; $B = 0{,}066$ ; $C = 800$ ; $D = 2\,300$
+
+Vert : $A = 2{,}3$ ; $B = 0{,}66$
 
 #### Erreur et correction
 
