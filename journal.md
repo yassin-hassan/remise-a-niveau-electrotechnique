@@ -2,6 +2,14 @@
 
 Une entrée par jour de travail, la plus récente en haut.
 
+## 2026-11-28
+
+**Puissances.** Exercice d'Yvan Monka de calculs avec des puissances de 10 : lignes gris et jaune, puis A, B et C de la ligne bleu, soit neuf calculs (Puissances, [exercice 10](maths/algebre/03-puissances/exercices.md)). Bleu D et ligne vert pas encore faits.
+
+**Erreurs.** Quatre erreurs, corrigées : passage à l'écriture décimale (deux fois), passage à la notation scientifique, erreur de calcul.
+
+**À travailler.** Je dois m'entraîner davantage sur ce type d'exercice : manipulation des exposants, notation scientifique et écriture décimale.
+
 ## 2026-11-27
 
 **Puissances.** Exercice d'Yvan Monka sur la croissance de bactéries (doublement toutes les 30 minutes pendant 24 h), résolu de tête. J'ai appris que pour modéliser un choix que l'on fait plusieurs fois, la base est le nombre de choix possibles et l'exposant est le nombre de fois que l'on fait ce choix.
