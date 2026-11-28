@@ -257,9 +257,9 @@ $A = 3\,250\,000$ ; $B = 42\,100\,000$
 
 **Source :** Yvan Monka, puissances
 **Date :** 2026-11-28
-**Brouillon :** [scan, gris A à C](brouillons/2026-11-28-calculs-puissances-de-10-gris.pdf), [scan, gris D et jaune](brouillons/2026-11-28-calculs-puissances-de-10-jaune.pdf), [scan, bleu A à C](brouillons/2026-11-28-calculs-puissances-de-10-bleu.pdf), [scan, bleu D, vert A et B](brouillons/2026-11-28-calculs-puissances-de-10-vert.pdf)
+**Brouillon :** [scan, gris A à C](brouillons/2026-11-28-calculs-puissances-de-10-gris.pdf), [scan, gris D et jaune](brouillons/2026-11-28-calculs-puissances-de-10-jaune.pdf), [scan, bleu A à C](brouillons/2026-11-28-calculs-puissances-de-10-bleu.pdf), [scan, bleu D, vert A et B](brouillons/2026-11-28-calculs-puissances-de-10-vert.pdf), [scan, vert C](brouillons/2026-11-28-calculs-puissances-de-10-vert-c.pdf), [scan, vert D et E](brouillons/2026-11-28-calculs-puissances-de-10-vert-d-e.pdf), [scan, correction de vert E](brouillons/2026-11-28-calculs-puissances-de-10-vert-e-correction.pdf)
 
-La consigne n'apparaît pas sur l'énoncé fourni. Les lignes « gris », « jaune » et « bleu » ont été traitées, ainsi que A et B de la ligne « vert ».
+La consigne n'apparaît pas sur l'énoncé fourni. Toutes les lignes ont été traitées.
 
 #### Énoncé
 
@@ -357,6 +357,36 @@ $$B = 66 \text{ milliers} \times 10^{-5} = 66 \times 10^3 \times 10^{-5} = 66 \t
 
 $$= 0{,}66 = 6{,}6 \times 10^{-1}$$
 
+Pour $C$, une première tentative entièrement barrée en haut de la page n'est pas transcrite.
+
+$$C = \frac{4 \times (10^7)^2 \times 12}{3 \times 10^{11}} = \frac{48 \times 10^{14}}{3 \times 10^{11}} = \frac{48}{3} \times 10^3$$
+
+$$= \frac{2 \times 3 \times 4 \times 2}{3} \times 10^3 = 16 \times 10^3 = 1{,}6 \times 10^4$$
+
+$$= 16\,000$$
+
+Sur le brouillon, les 3 de $\frac{2 \times 3 \times 4 \times 2}{3}$ sont barrés (simplification).
+
+$$D = 5 \times (10^{-2})^3 \times 47 \times (10^2)^{-1} \times 2 \times 10$$
+
+$$= 5 \times 2 \times 47 \times 10^{-6} \times 10^{-2} \times 10^1$$
+
+$$= 470 \times 10^{-7}$$
+
+$$= 4{,}7 \times 10^{-5} = 0{,}000047$$
+
+Sur le brouillon, le dernier chiffre de $0{,}000047$ est réécrit par-dessus.
+
+$$E = \frac{2{,}5 \times 10^{-3} \times 9 \times 10^5}{15 \times 10^{-4}} = \frac{25 \times 10^{-1} \times 9 \times 10^5}{15 \times 10^{-4}}$$
+
+$$= \frac{25 \times 9}{15} \times 10^8 = \frac{5 \times 5 \times 3 \times 3}{5 \times 3} \times 10^8$$
+
+$$= 15 \times 10^8 = 1{,}5 \times 10^9$$
+
+$$= 1\,500\,000\,000$$
+
+Sur le brouillon, un 5 et un 3 sont barrés en haut et en bas (simplification). Un premier $15 \times 10^8$ raturé n'est pas transcrit.
+
 #### Résultat
 
 Gris : $A = 0{,}00047$ ; $B = 660$ ; $C = 0{,}018$ ; $D = 2{,}3 \times 10^5$
@@ -365,7 +395,7 @@ Jaune : $A = 470$ ; $B = 2 \times 10^2$
 
 Bleu : $A = 4\,700\,000\,000$ ; $B = 0{,}066$ ; $C = 800$ ; $D = 2\,300$
 
-Vert : $A = 2{,}3$ ; $B = 0{,}66$
+Vert : $A = 2{,}3$ ; $B = 0{,}66$ ; $C = 16\,000$ ; $D = 0{,}000047$ ; $E = 1\,500\,000$
 
 #### Erreur et correction
 
@@ -395,3 +425,14 @@ $$B = \frac{16 \times 10^{-5} \times 3 \times 10^4}{24 \times 10^{-3}} = \frac{4
 - **Erreur :** dernière égalité. J'avais écrit $6{,}6 \times 10^{-2} = 0{,}66$ : même erreur que pour gris C, la virgule n'était décalée que d'un rang au lieu de deux.
 - **Correction :** $6{,}6 \times 10^{-2} = 0{,}066$ (corrigé sur le brouillon).
 - **À retenir :** même point que gris C.
+
+**Vert E**
+
+- **Erreur :** première transformation. J'avais écrit $2{,}5 \times 10^{-3} = 25 \times 10^{-1}$ : en passant de 2,5 à 25, j'ai remplacé l'exposant au lieu de le compenser. Toute la suite en découlait ($10^8$, puis $1{,}5 \times 10^9$).
+- **Correction :** refait sur une nouvelle page :
+
+$$E = \frac{2{,}5 \times 10^{-3} \times 9 \times 10^5}{15 \times 10^{-4}} = \frac{25 \times 10^{-1} \times 10^{-3} \times 9 \times 10^5}{15 \times 10^{-4}} = \frac{25 \times 9}{15} \times 10^5$$
+
+$$= 15 \times 10^5 = 1{,}5 \times 10^6 = 1\,500\,000$$
+
+- **À retenir :** écrire $2{,}5 = 25 \times 10^{-1}$ à part, puis multiplier par la puissance de 10 qui était déjà là.
