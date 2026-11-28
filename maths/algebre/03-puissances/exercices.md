@@ -252,3 +252,57 @@ Pour $B$, trois tentatives raturées ne sont pas transcrites.
 #### Résultat
 
 $A = 3\,250\,000$ ; $B = 42\,100\,000$
+
+### Exercice 10 : calculs avec des puissances de 10
+
+**Source :** Yvan Monka, puissances
+**Date :** 2026-11-28
+**Brouillon :** [scan](brouillons/2026-11-28-calculs-puissances-de-10-gris.pdf)
+
+La consigne n'apparaît pas sur l'énoncé fourni. Seule la ligne « gris » a été traitée.
+
+#### Énoncé
+
+| | | | | |
+|---|---|---|---|---|
+| **gris** | $A = 0{,}235 \times 10^{-1} \times 20 \times 10^{-3}$ | $B = \dfrac{3 \times 10^{-2} \times 11 \times 10^6}{500}$ | $C = \dfrac{3 \times 10^2 \times 1{,}2 \times (10^{-3})^4}{0{,}2 \times 10^{-7}}$ | $D = \dfrac{46 \times (10^3)^2}{2 \times 10^2}$ |
+| **jaune** | $A = 47 \text{ millions} \times 10^{-5}$ | $B = \dfrac{16 \times 10^{-5} \times 3 \times 10^4}{24 \times 10^{-3}}$ | | |
+| **bleu** | $A = 4{,}7 \text{ milliers de millions}$ | $B = 2 \times 10^{-1} \times 11 \times 10^2 \times 3 \times 10^{-4}$ | $C = \dfrac{96 \times 10^{-4} \times 5 \times 10^{-2}}{3 \times 10^{-1} \times 2 \times 10^{-6}}$ | $D = \dfrac{11{,}5 \times (10^3)^{-1}}{0{,}5 \times 10^{-5}}$ |
+| **vert** | $A = \dfrac{115 \times 10^5}{5 \times (10^2)^3}$ | $B = 66 \text{ milliers} \times 10^{-5}$ | $C = \dfrac{4 \times (10^7)^2 \times 12}{3 \times 10^{11}}$ | |
+| **vert** | $D = 5 \times (10^{-2})^3 \times 47 \times (10^2)^{-1} \times 2 \times 10$ | $E = \dfrac{2{,}5 \times 10^{-3} \times 9 \times 10^5}{15 \times 10^{-4}}$ | | |
+
+#### Résolution
+
+**Ligne gris**
+
+$$A = 0{,}235 \times 10^{-1} \times 20 \times 10^{-3}$$
+
+$$= 0{,}235 \times 20 \times 10^{-4}$$
+
+$$= 0{,}235 \times 2 \times 10^{-3}$$
+
+$$= 0{,}470 \times 10^{-3}$$
+
+$$= 4{,}7 \times 10^{-4}$$
+
+$$= 0{,}00047$$
+
+$$B = \frac{3 \times 10^{-2} \times 11 \times 10^6}{500} = \frac{3 \times 11 \times 10^4}{5 \times 10^2} = \frac{33 \times 10^2}{5}$$
+
+$$= 6{,}6 \times 10^2 = 660$$
+
+$$C = \frac{3 \times 10^2 \times 1{,}2 \times (10^{-3})^4}{0{,}2 \times 10^{-7}} = \frac{3 \times 10^2 \times 1{,}2 \times 10^{-12}}{0{,}2 \times 10^{-7}}$$
+
+$$= \frac{3 \times 1{,}2 \times 10^{-10}}{0{,}2 \times 10^{-7}} = \frac{3 \times 12 \times 10^{-1} \times 10^{-10}}{2 \times 10^{-1} \times 10^{-7}} = \frac{36 \times 10^{-11}}{2 \times 10^{-8}}$$
+
+$$= 18 \times 10^{-3} = 1{,}8 \times 10^{-2} = 0{,}18$$
+
+#### Résultat
+
+$A = 0{,}00047$ ; $B = 660$ ; $C = 0{,}018$
+
+#### Erreur et correction
+
+- **Erreur :** $C$, dernière égalité. J'avais écrit $1{,}8 \times 10^{-2} = 0{,}18$ : la virgule n'était décalée que d'un rang au lieu de deux.
+- **Correction :** $1{,}8 \times 10^{-2} = 0{,}018$ (corrigé sur le brouillon).
+- **À retenir :** pour $10^{-n}$, décaler la virgule de $n$ rangs vers la gauche, et compter les rangs.
